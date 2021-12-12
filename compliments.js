@@ -32,3 +32,17 @@ window.compliments = [
     "Being around you makes everything better.",
     "Colors seem brighter when you're around."
 ];
+
+document.body.onload = function() {
+    newCompliment();
+};
+
+document.body.onkeyup = function(e) {
+    if (e.which == 32) {
+        newCompliment();
+    }
+};
+
+function newCompliment() {
+    document.getElementById("compliment").innerHTML = window.compliments[Math.floor(Math.random() * window.compliments.length)];
+}
