@@ -30,7 +30,9 @@ window.compliments = [
     "You were cool way before hipsters were cool.",
     "You always know and say exactly what I need to hear when I need to hear it.",
     "Being around you makes everything better.",
-    "Colors seem brighter when you're around."
+    "Colors seem brighter when you're around.",
+    "Your energy is electric.",
+    "You're a great height."
 ];
 
 document.body.onload = function() {
