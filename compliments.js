@@ -156,6 +156,17 @@ document.body.onkeyup = function(e) {
     }
 };
 
+const blob = document.getElementById("blob");
+
+window.onpointermove = event => { 
+    const { clientX, clientY } = event;
+    
+    blob.animate({
+        left: `${clientX}px`,
+        top: `${clientY}px`
+    }, { duration: 2000, fill: "forwards" });
+};
+
 function newCompliment() {
     document.getElementById("compliment").innerHTML = window.compliments[Math.floor(Math.random() * window.compliments.length)];
 }
