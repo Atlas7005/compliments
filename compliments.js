@@ -1,172 +1,147 @@
 window.compliments = [
-    "You have a contagious smile that can light up anyone's day.",
-    "You have a remarkable talent for making people feel at ease and comfortable around you.",
-    "You have a heart of gold and a kind spirit that inspires others to be their best selves.",
-    "Your creativity and imagination are truly awe-inspiring.",
-    "Your intelligence and wit never cease to amaze me.",
-    "You have a way of seeing the world that is uniquely insightful and enlightening.",
-    "You possess a rare combination of strength and grace that is truly admirable.",
-    "You have an incredible work ethic and a tenacity that is inspiring to those around you.",
-    "Your compassion and empathy make you a truly special and caring person.",
-    "You have an infectious enthusiasm for life that makes everyone around you want to join in.",
-    "Your ability to listen and understand is a rare and valuable gift.",
-    "Your sense of humor is top-notch and always puts a smile on my face.",
-    "Your passion for your interests and pursuits is truly inspiring.",
-    "You have a natural beauty that radiates from within.",
-    "Your dedication to personal growth and self-improvement is truly commendable.",
-    "Your positive attitude and outlook on life are infectious and inspiring.",
-    "Your patience and understanding make you a wonderful friend and companion.",
-    "Your integrity and honesty are truly admirable and make you a role model for others.",
-    "You have an incredible sense of style and a unique fashion sense that is always on point.",
-    "Your adventurous spirit and willingness to take risks make you an inspiration to others.",
-    "You're that “Nothing” when people ask me what I'm thinking about.",
-    "You look great today.",
-    "I bet you make babies smile.",
-    "You have impeccable manners.",
-    "I like your style.",
-    "You have the best laugh.",
-    "I appreciate you.",
-    "You are the most perfect you there is.",
-    "You are enough.",
-    "You're strong.",
-    "Your perspective is refreshing.",
-    "You're an awesome friend.",
+    "You have such a calming presence.",
+    "You're genuinely kind-hearted.",
+    "You radiate positivity.",
+    "Your integrity is admirable.",
+    "You're incredibly thoughtful.",
+    "You're someone people feel safe around.",
+    "Your authenticity is refreshing.",
+    "You have a beautiful way of seeing the world.",
+    "You're emotionally intelligent.",
+    "You lead with empathy.",
+    "You have a sharp mind.",
+    "You're a quick learner.",
+    "Your perspective is always insightful.",
+    "You explain things so clearly.",
+    "You ask the best questions.",
+    "You're wonderfully curious.",
+    "Your intelligence is quietly powerful.",
+    "You always make people think deeper.",
+    "You're great at making connections others miss.",
+    "You make learning feel exciting.",
     "You light up the room.",
-    "You deserve a hug right now.",
-    "You should be proud of yourself.",
-    "You're more helpful than you realize.",
-    "You've got all the right moves!",
-    "Is that your picture next to \"charming\" in the dictionary?",
-    "Your kindness is a balm to all who encounter it.",
-    "On a scale from 1 to 10, you're an 11.",
-    "You are brave.",
-    "You're even more beautiful on the inside than you are on the outside.",
-    "You have the courage of your convictions.",
-    "Your eyes are breathtaking.",
-    "You're like a breath of fresh air.",
-    "You're making a difference.",
-    "You're like sunshine on a rainy day.",
-    "You always know and say exactly what I need to hear when I need to hear it.",
-    "Being around you makes everything better.",
-    "Colors seem brighter when you're around.",
-    "Your energy is electric.",
-    "You have a captivating smile.",
-    "Your hair looks stunning today.",
-    "Your creativity knows no bounds.",
-    "Your contagious energy lifts everyone around you.",
-    "Your kindness is inspiring.",
-    "Your intelligence is truly impressive.",
-    "Your voice could soothe the soul.",
-    "Your style is impeccable.",
-    "Your dedication to your work is admirable.",
-    "Your determination is inspiring.",
-    "Your presence fills the room with positivity.",
-    "Your thoughtfulness is appreciated more than you know.",
-    "Your loyalty is unwavering.",
-    "Your confidence is infectious.",
-    "Your passion for life is inspiring.",
-    "Your empathy is a true gift to those around you.",
-    "Your curiosity is contagious.",
-    "You have a natural ability to lead.",
-    "Your creativity is truly awe-inspiring.",
-    "You have a wonderful sense of style.",
-    "Your dedication to your craft is admirable.",
-    "Your hard work is paying off in spades.",
-    "Your loyalty is unwavering.",
-    "Your attention to detail is truly remarkable.",
-    "You have a unique perspective that is truly valuable.",
-    "Your intuition is impressive.",
-    "Your generosity knows no bounds.",
-    "Your honesty is refreshing.",
-    "Your positive attitude is contagious.",
-    "Your optimism is inspiring.",
-    "You have a calming presence that eases any situation.",
-    "Your adaptability is impressive.",
-    "Your intelligence is matched only by your kindness.",
-    "Your resilience is remarkable.",
-    "You have a wonderful way of bringing people together.",
-    "Your determination is unwavering.",
-    "Your smile lights up the room.",
-    "Your confidence is infectious.",
-    "Your passion for life is inspiring.",
-    "Your empathy is a true gift to those around you.",
-    "Your curiosity is contagious.",
-    "You have a natural ability to lead.",
-    "Your creativity is truly awe-inspiring.",
-    "You have a wonderful sense of style.",
-    "Your dedication to your craft is admirable.",
-    "Your hard work is paying off in spades.",
-    "Your loyalty is unwavering.",
-    "Your attention to detail is truly remarkable.",
-    "You have a unique perspective that is truly valuable.",
-    "Your intuition is impressive.",
-    "Your generosity knows no bounds.",
-    "Your honesty is refreshing.",
-    "Your positive attitude is contagious.",
-    "Your optimism is inspiring.",
-    "You have a calming presence that eases any situation.",
-    "Your adaptability is impressive.",
-    "Your intelligence is matched only by your kindness.",
-    "Your resilience is remarkable.",
-    "You have a wonderful way of bringing people together.",
-    "Your determination is unwavering.",
-    "Your smile lights up the room.",
-    "Your confidence is infectious.",
-    "Your passion for life is inspiring.",
-    "Your empathy is a true gift to those around you.",
-    "Your curiosity is contagious.",
-    "You have a natural ability to lead.",
-    "Your creativity is truly awe-inspiring.",
-    "You have a wonderful sense of style.",
-    "Your dedication to your craft is admirable.",
-    "Your hard work is paying off in spades.",
-    "Your loyalty is unwavering.",
-    "Your attention to detail is truly remarkable.",
-    "You have a unique perspective that is truly valuable.",
-    "Your intuition is impressive.",
-    "Your generosity knows no bounds.",
-    "Your honesty is refreshing.",
-    "Your positive attitude is contagious.",
-    "Your optimism is inspiring.",
-    "You have a calming presence that eases any situation.",
-    "Your adaptability is impressive.",
-    "Your intelligence is matched only by your kindness.",
-    "Your resilience is remarkable.",
-    "You have a wonderful way of bringing people together.",
-    "Your determination is unwavering.",
-    "Your smile lights up the room.",
-    "Your confidence is infectious.",
-    "Your passion for life is inspiring.",
-    "Your empathy is a true gift to those around you.",
-    "Your curiosity is contagious.",
-    "You have a natural ability to lead.",
-    "Your creativity is truly awe-inspiring.",
-    "You have a wonderful sense of style.",
-    "Your dedication to your craft is admirable.",
-    "Your hard work is paying off in spades."
+    "Your laugh is contagious.",
+    "You have great comedic timing.",
+    "You know how to find joy in small things.",
+    "You bring fun wherever you go.",
+    "Your sense of humor is effortless.",
+    "You have a great vibe.",
+    "You make people feel more alive.",
+    "You're naturally entertaining.",
+    "You brighten people's days.",
+    "You're a great listener.",
+    "You make people feel heard.",
+    "You're someone people can count on.",
+    "You give amazing advice.",
+    "You care deeply, and it shows.",
+    "Your support means more than you know.",
+    "You're incredibly patient.",
+    "You make others feel less alone.",
+    "You handle hard conversations with grace.",
+    "You have a gift for comforting others.",
+    "You treat everyone with respect.",
+    "You carry yourself with quiet confidence.",
+    "You stand your ground with dignity.",
+    "You honor your values.",
+    "You speak with purpose.",
+    "You show strength in subtle ways.",
+    "You have a humble strength.",
+    "You lead by example.",
+    "You never make others feel small.",
+    "You hold space for others beautifully.",
+    "You give your all.",
+    "You're incredibly dedicated.",
+    "You have great focus.",
+    "You're consistent in the best way.",
+    "You have a great sense of style.",
+    "Your smile lights up your whole face.",
+    "You have a soothing voice.",
+    "You have a presence that draws people in.",
+    "You create space for others to be themselves.",
+    "People open up to you naturally.",
+    "You've come so far.",
+    "You're doing better than you think.",
+    "You're becoming someone amazing."
 ];
 
-document.body.onload = function() {
-    newCompliment();
-};
+function newCompliment() {
+    const complimentElement = document.getElementById("compliment");
+    const randomCompliment = window.compliments[Math.floor(Math.random() * window.compliments.length)];
 
-document.body.onkeyup = function(e) {
+    // Add fade out effect
+    complimentElement.style.opacity = '0';
+    complimentElement.style.transform = 'translateY(20px)';
+
+    setTimeout(() => {
+        complimentElement.innerHTML = randomCompliment;
+        complimentElement.style.opacity = '1';
+        complimentElement.style.transform = 'translateY(0)';
+        createSparkles();
+    }, 300);
+}
+
+function createSparkles() {
+    const sparkleCount = 8;
+    const container = document.querySelector('.container');
+
+    for (let i = 0; i < sparkleCount; i++) {
+        setTimeout(() => {
+            const sparkle = document.createElement('div');
+            sparkle.className = 'sparkle';
+            sparkle.style.left = Math.random() * 100 + '%';
+            sparkle.style.top = Math.random() * 100 + '%';
+            container.appendChild(sparkle);
+
+            setTimeout(() => {
+                sparkle.remove();
+            }, 2000);
+        }, i * 100);
+    }
+}
+
+// Device detection
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ||
+        (window.innerWidth <= 768 && 'ontouchstart' in window);
+}
+
+// Update instruction text based on device
+function updateInstruction() {
+    const instructionElement = document.querySelector('.instruction');
+    if (isMobileDevice()) {
+        instructionElement.textContent = 'Tap anywhere for a new compliment';
+    } else {
+        instructionElement.textContent = 'Press spacebar for a new compliment';
+    }
+}
+
+// Keyboard event for desktop
+document.body.onkeyup = function (e) {
     if (e.which == 32) {
         newCompliment();
     }
 };
 
-const blob = document.getElementById("blob");
+// Touch events for mobile
+document.addEventListener('touchstart', (e) => {
+    e.preventDefault(); // Prevent default touch behavior
+    newCompliment();
+});
 
-window.onpointermove = event => { 
-    const { clientX, clientY } = event;
-    
-    blob.animate({
-        left: `${clientX}px`,
-        top: `${clientY}px`
-    }, { duration: 2000, fill: "forwards" });
-};
+// Click event as fallback
+document.addEventListener('click', () => {
+    if (isMobileDevice()) {
+        newCompliment();
+    }
+});
 
-function newCompliment() {
-    document.getElementById("compliment").innerHTML = window.compliments[Math.floor(Math.random() * window.compliments.length)];
-}
+// Initialize with smooth transition
+document.addEventListener('DOMContentLoaded', () => {
+    const complimentElement = document.getElementById("compliment");
+    complimentElement.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+    updateInstruction();
+    newCompliment();
+});
+
+// Update instruction on window resize (for device orientation changes)
+window.addEventListener('resize', updateInstruction);
